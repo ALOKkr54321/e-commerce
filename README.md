@@ -6,7 +6,6 @@ This is a fully responsive e-commerce shopping website project built using React
 
 - [Demo](#demo)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Installation and Setup](#installation-and-setup)
 
@@ -28,13 +27,6 @@ You can see a live demo of this project [here](https://ecommerce-shop-react-app.
 - **Fake Store API**: A free API for testing and prototyping e-commerce websites
 - **Context API**: A React API for managing global state in an application.
 
-## Screenshots
-
-Below are some screenshots of the website.
-
-![Home Page](/src/img/home-page.png)
-
-![Cart/Sidebar](/src/img/cart.png)
 
 ## Installation and Setup
 
@@ -42,7 +34,3 @@ Below are some screenshots of the website.
 2. Navigate to the project directory and run `npm install` to install all dependencies.
 3. Run `npm start` to start the application.
 4. Open `http://localhost:3000` in your browser to view the website.
-
-
-Thank you! 🤍
-– Nigar Safarova
